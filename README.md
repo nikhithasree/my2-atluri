@@ -15,3 +15,21 @@ Gokarna is a serene coastal gem, captivates with its pristine beaches, sacred at
 * Milk Shakes<br><br>
 
 You can check my info at [MyStats](MyStats.md)
+
+****
+
+### Sports Recommendation
+
+I recommend the following sports for good physcial and mental health.
+
+| Name of the Sport | Reason for recommendation | Avg hours to be spent in a week |
+
+| :------------: | :-------------: | :-------------: |
+
+| Cricket | Good physcial exercise | 4Hrs |
+
+| Chess | Improves thinking ability | 3Hrs|
+
+| Swimming | Swimming is a healthy activity that you can continue for a lifetime. | 4Hrs |
+
+| Cycling | Good for strength and stamina | 7Hrs |
