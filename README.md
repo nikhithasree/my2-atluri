@@ -28,3 +28,10 @@ I recommend the following sports for good physcial and mental health.
 | Chess             | Improves thinking ability | 3Hrs                            |
 | Swimming          | Swimming is a stress free | 4Hrs                            |
 | Cycling           | Good for strength         | 7Hrs                            |
+
+---
+### Quotes
+
+>"The important thing is not to stop questioning." - *Albert Einstein*<br>
+
+>"The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge." - *Stephen Hawking*
