@@ -14,4 +14,4 @@ Gokarna is a serene coastal gem, captivates with its pristine beaches, sacred at
 * Pizza
 * Milk Shakes<br><br>
 
-
+You can check my info at [MyStats](MyStats.md)
