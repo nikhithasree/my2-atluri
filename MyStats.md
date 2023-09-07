@@ -25,7 +25,7 @@ I recommend the following sports for good physcial and mental health.
 >"The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge." - *Stephen Hawking*
 
 -----
-##HTAccess Overflow Resolving
+### HTAccess Overflow Resolving
 >[htaccess rewrite url like Stack Overflow](https://stackoverflow.com/questions/22012045/htaccess-rewrite-url-like-stack-overflow)
 
 ```
