@@ -24,3 +24,12 @@ I recommend the following sports for good physcial and mental health.
 
 >"The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge." - *Stephen Hawking*
 
+-----
+##HTAccess Overflow Resolving
+>[htaccess rewrite url like Stack Overflow](https://stackoverflow.com/questions/22012045/htaccess-rewrite-url-like-stack-overflow)
+
+```
+Redirect 301 /oldpage.html http://www.yoursite.com/newpage.html
+Redirect 301 /oldpage2.html http://www.yoursite.com/folder/
+```
+Click here for Snippet code [Make 301 Redirects](https://css-tricks.com/snippets/htaccess/301-redirects/)
